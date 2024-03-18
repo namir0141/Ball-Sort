@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BallSort/Scenes/Start.unity
+    guid: 1c1ecdb8b7ffcaea3bea6406fce4b68c
+  - enabled: 1
+    path: Assets/BallSort/Scenes/LevelsMenu.unity
+    guid: 2fb3b511d28b8ce228493c9823bd7ea0
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 1.unity
+    guid: 2c497ce664feff14ead966a62cb917a9
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 2.unity
+    guid: 66e26330ee723c842ac0a4dde82919c8
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 3.unity
+    guid: eed43b83ed58caf44badc4dd5063f75a
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 4.unity
+    guid: c78815be8be113d499c0420d4d42869a
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 5.unity
+    guid: bfcac689bc3fb2f4b81210188ab882f7
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 6.unity
+    guid: 8c65b93751b9dec42b810c38693552c7
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 7.unity
+    guid: 258ff75055317184e94426558cdefc6c
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 8.unity
+    guid: da5f3793360981b4c89181e89fd7b402
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 9.unity
+    guid: 4ccf2a3028c929f439c2516ab5b80c31
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 10.unity
+    guid: 1fb56acf3c7dbda4abdb09b859546c1e
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 11.unity
+    guid: 581ee56e12c840e47a467863c829f755
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 12.unity
+    guid: a8080a48d879ee442b16665dda7ca757
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 13.unity
+    guid: e9175b48c9ef099479441a462a2d6ac3
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 14.unity
+    guid: b992e9f2d00a59c42a416fffb444a73e
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 15.unity
+    guid: e4ff3b150c26c9f41a90e3efaa1e70e5
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 16.unity
+    guid: ab395e961cb1b36489d9f6ce5f661b11
+  - enabled: 1
+    path: Assets/BallSort/Scenes/GamePlay/Level 17.unity
+    guid: 13547fe9c33642f419b29274acf496dc
+  - enabled: 1
+    path: Assets/BallSort/Scenes/Win.unity
+    guid: 1be23800ff6f522499a1d3962de12fde
+  m_configObjects: {}
